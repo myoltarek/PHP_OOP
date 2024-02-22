@@ -1,0 +1,16 @@
+{
+    "name": "tarek/01",
+    "autoload": {
+        "psr-4": {
+            "Tarek\\01\\": "src/",
+            "App\\": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "myoltarek",
+            "email": "tarekmyolbd@gmail.com"
+        }
+    ],
+    "require": {}
+}
